@@ -281,28 +281,28 @@ hr {
 }
 
 #off1-pics {
-	background-image: url(wed-retouched/offer1-pic.jpg);
+	background-image: url(../wed-retouched/offer1-pic.jpg);
 	height: 200px;
 	background-position: center;
 	background-repeat: no-repeat;
 }
 
 #off2-pics {
-	background-image: url(wed-retouched/offer2-pics.jpg);
+	background-image: url(../wed-retouched/offer2-pics.jpg);
 	height: 200px;
 	background-position: center;
 	background-repeat: no-repeat;
 }
 
 #off3-pics {
-	background-image: url(wed-retouched/offer3-pics.jpg);
+	background-image: url(../wed-retouched/offer3-pics.jpg);
 	height: 200px;
 	background-position: center;
 	background-repeat: no-repeat;
 }
 
 #off4-pics {
-	background-image: url(wed-retouched/offer4-pics.jpg);
+	background-image: url(../wed-retouched/offer4-pics.jpg);
 	height: 200px;
 	background-position: center;
 	background-repeat: no-repeat;
@@ -468,28 +468,28 @@ hr {
 	}
 	
 	#tmy1 {
-	background-image: url(wed-retouched/testi1.jpg);
+	background-image: url(../wed-retouched/testi1.jpg);
 	}
 
 	#tmy2 {
-		background-image: url(wed-retouched/testi2.jpg);
+		background-image: url(../wed-retouched/testi2.jpg);
 	}
 
 	#tmy3 {
-		background-image: url(wed-retouched/testi3.jpg);
+		background-image: url(../wed-retouched/testi3.jpg);
 	}
 
 	#tmy4 {
-		background-image: url(wed-retouched/testi4.jpg);
+		background-image: url(../wed-retouched/testi4.jpg);
 	}
 
 	#tmy5 {
-		background-image: url(wed-retouched/testi5.jpg);
+		background-image: url(../wed-retouched/testi5.jpg);
 		background-position: left;
 	}
 
 	#tmy6 {
-		background-image: url(wed-retouched/testi6.jpg);
+		background-image: url(../wed-retouched/testi6.jpg);
 	}
 
 	.testimo {
@@ -597,7 +597,7 @@ hr {
 
 #form-1 {
 	float: left;
-	background-image: url(wed-retouched/married.jpg);
+	background-image: url(../wed-retouched/married.jpg);
 	background-size: cover;
 	background-repeat: no-repeat;
 	background-position: center;
