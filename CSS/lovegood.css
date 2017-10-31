@@ -201,7 +201,7 @@ nav#nav-mobile a:hover {
 .us h3 {color: lightgray;}
 
 .bigback {
-    background-image: linear-gradient(rgba(180, 140, 155, 0.70), rgba(255, 240, 255, 0.4)), url(../IMAGES/wed-retouched/back.jpg); 
+    background-image: linear-gradient(rgba(180, 140, 155, 0.70), rgba(255, 240, 255, 0.4)), url(../wed-retouched/back.jpg); 
 	opacity: .8;
 	background-size: cover;
     background-position: center;
